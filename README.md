@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="_git%20assets/cover.png" width="600" align="center"/>
+  <img src="https://media-exp1.licdn.com/dms/image/C560BAQGU96KCYUgFqA/company-logo_200_200/0/1579486806874?e=2147483647&v=beta&t=FEJ3AuZar7iZwkHUiXr4tZ0y9CZYVHZzl7VKgkAH-XI" width="600" align="center"/>
 </p>
 
 > KLiK is a PHP based Information Pool System (or simply a Social Media Website), consisting of a complete Login/Registration system, User Profile system, Chat room, Forum system and Blog/Polls/Event Management System.
